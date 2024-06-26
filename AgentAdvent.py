@@ -29,7 +29,7 @@ def get_directory() -> str:
 
 def get_file_data( directory: str ) -> dict:
     ''' looks for a local folder titled 'directory' and opens
-    a file it containse called 'hat.txt'. This file should 
+    a file it contains called 'hat.txt'. This file should 
     contain the following.
     person_drawing/linked_people/recently_drawn_people.
     The sections are separated with slashes and the people in a 
