@@ -1,0 +1,12 @@
+Pat/Em/Andrew,Mom
+Em/Pat/Bill,Jon
+Bekah/Kenny/Jon,Em
+Kenny/Bekah/Em,Pat
+Jon/Jo/Mom,Bill
+Jo/Jon/Dad,Jessie
+Chrissy/Andrew/Jessie,Jo
+Jessie/Bill/Kenny,Andrew
+Bill/Jessie/Bekah,Chrissy
+Mom/Dad/Chrissy,Bekah
+Dad/Mom/Pat,Kenny
+Andrew/Chrissy/Jo,Dad
