@@ -93,18 +93,6 @@ def create_next_years_files(file_data: dict, directory: str) -> None:
             output_str += f'/{file_data[person][1][-1]},{file_data[person][2]}\n'
             new_hat.write(output_str)
 
-# def create_assignments_file(person):
-#     file = open(person+".txt", "w")
-#     for assignment in results[person][2]:
-#         file.write(assignment+"\n")
-#     file.close()
-
-# #     successful = False
-# #     while not successful:
-# #         outcome = attempt_drawing(results, hat)
-# #         results = outcome(0)
-# #         successful = outcome(1)
-
 
 if __name__ == '__main__':
     main()
